@@ -1,0 +1,25 @@
+caption {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 7px 10px;
+    background-color: hotpink;
+}
+table {
+    border: solid 1px hotpink;
+}
+td, th {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 1px gray;
+    padding: 5px 5px;
+    text-align: center;
+}
+th {
+    background-color: pink;
+}
+td {
+    background-color: white;
+}
+.bottomRow > td {
+    background-color: pink;
+}

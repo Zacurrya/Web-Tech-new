@@ -1,0 +1,58 @@
+/* 10-15 styles */
+body {
+    padding: 0px;
+    margin: 0px 0px;
+    background-color: silver;
+    font-size: 24pt;
+}
+header {
+    padding: 1.2vh;
+    background-color: white;
+}
+h1 { 
+    margin: 0 0;
+}
+h2, h3 {
+    font-size: 1em;
+}
+div {
+    font-weight: 500;
+}
+strong {
+    font-weight: bold;
+}
+p && ul {
+    font-weight: 600;
+    font-size: 0.7em;
+}
+li {
+    font-size: 0.7em;
+}
+img {
+    border-radius: 15px;
+}
+figcaption {
+    font-size: 0.5em;
+}
+.ok {
+    margin-left: 20px;
+}
+footer {
+    background-color: rgb(85, 85, 85);
+}
+nav {
+    background-color: rgb(185, 185, 185);
+    border: solid black 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+a {
+    text-decoration: none;
+}
+a:link {
+    color: rgb(146, 62, 255);
+}
+a:hover {
+    color: rgb(255, 255, 180);
+}

@@ -1,0 +1,11 @@
+th, td {
+    background-color: rgb(202, 201, 201);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+th, .grade {
+    font-weight: bold;
+}
+td {
+    background-color: white;
+}

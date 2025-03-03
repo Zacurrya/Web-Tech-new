@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .attractionImg {
     width: 30vw;
 }
@@ -29,4 +30,37 @@ a:link {
 }
 hr {
     border: 1px solid rgb(125, 247, 131);
+=======
+.attractionImg {
+    width: 30vw;
+}
+.trophyImg {
+    width: 5vw;
+}
+figcaption {
+    
+    width: 30vw;
+    background-color: black;
+    color: white;
+}
+div {
+    background-color: rgb(196, 196, 196);
+}
+article {
+    
+}
+footer {
+    margin-top: -2.7vh;
+    background-color: black;
+    color: white
+}
+a {
+    color: white;
+}
+a:link {
+   background-color: rgb(13, 150, 32); 
+}
+hr {
+    border: 1px solid rgb(125, 247, 131);
+>>>>>>> 67b3506dce1a6f9687b6214af4db8da01455087e
 }
